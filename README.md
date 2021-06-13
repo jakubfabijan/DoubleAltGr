@@ -11,5 +11,5 @@ Wanna use Left Alt just like right one?
 Just copy `level3` file as `/usr/share/X11/xkb/symbols/level3` and in layout file of your keyboard layout (ex. `/usr/share/X11/xkb/symbols/cz`) add after every line with `include "level3(ralt_switch)"` the code `include "level3(lalt_switch)"`.
 Takes couple of minutes, but it's worth it.
 
-## If you are lazy piece of monkey...
+## But if you are lazy piece of monkey...
 ...you can just copy already pathed keyboard layouts from the folder `layouts/` to `/usr/share/X11/xkb/symbols/`, but you still need to copy `level3` to `/usr/share/X11/xkb/symbols/level3`.
