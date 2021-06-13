@@ -12,4 +12,4 @@ Just copy `level3` file to `/usr/share/X11/xkb/symbols/level3` and in layout fil
 Takes couple of minutes, but it's worth it.
 
 ## If you are lazy piece of monkey...
-...you can just copy already pathed keyboard layouts from the folder `layouts/` to `/usr/share/X11/xkb/symbols/`
+...you can just copy already pathed keyboard layouts from the folder `layouts/` to `/usr/share/X11/xkb/symbols/`, but you still need to copy `level3` to `/usr/share/X11/xkb/symbols/level3`.
