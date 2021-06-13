@@ -1,5 +1,4 @@
 # DoubleAltGr
-Wanna use Left Alt just like right one?
 
 - Do you type a lot of diarctics (letters with accents) in your language?
 - Are you tired of using just Right Alt to do it?
