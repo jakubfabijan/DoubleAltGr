@@ -1,7 +1,7 @@
 # DoubleAltGr
 Wanna use Left Alt just like right one?
 
-- Do you type a lot of diarctics in your language?
+- Do you type a lot of diarctics (letters with accents) in your language?
 - Are you tired of using just Right Alt to do it?
 - Are you not using the old,normal Left Alt functions just like me?
 - Do you use linux everyday?
